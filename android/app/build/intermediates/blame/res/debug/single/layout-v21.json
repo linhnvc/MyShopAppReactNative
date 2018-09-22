@@ -1,5 +1,17 @@
 [
     {
+        "merged": "/Users/conglinh/Desktop/GitHub/MyShopAppReactNative/android/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/conglinh/.android/build-cache/36f7a94d77c485e85d4f93508bc13ffe027df20a/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/conglinh/Desktop/GitHub/MyShopAppReactNative/android/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/conglinh/.android/build-cache/36f7a94d77c485e85d4f93508bc13ffe027df20a/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/conglinh/Desktop/GitHub/MyShopAppReactNative/android/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/conglinh/.android/build-cache/36f7a94d77c485e85d4f93508bc13ffe027df20a/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
         "merged": "/Users/conglinh/Desktop/RN/MyShop/android/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
         "source": "/Users/conglinh/.android/build-cache/36f7a94d77c485e85d4f93508bc13ffe027df20a/output/res/layout-v21/notification_action_tombstone.xml"
     },
@@ -10,6 +22,10 @@
     {
         "merged": "/Users/conglinh/Desktop/RN/MyShop/android/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
         "source": "/Users/conglinh/.android/build-cache/36f7a94d77c485e85d4f93508bc13ffe027df20a/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/conglinh/Desktop/GitHub/MyShopAppReactNative/android/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/conglinh/.android/build-cache/36f7a94d77c485e85d4f93508bc13ffe027df20a/output/res/layout-v21/notification_action.xml"
     },
     {
         "merged": "/Users/conglinh/Desktop/RN/MyShop/android/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",

@@ -2,5 +2,9 @@
     {
         "merged": "/Users/conglinh/Desktop/RN/MyShop/android/app/build/intermediates/res/merged/debug/xml/preferences.xml",
         "source": "/Users/conglinh/.android/build-cache/a44e901c0a40e629ff4c3b0400c150a914636212/output/res/xml/preferences.xml"
+    },
+    {
+        "merged": "/Users/conglinh/Desktop/GitHub/MyShopAppReactNative/android/app/build/intermediates/res/merged/debug/xml/preferences.xml",
+        "source": "/Users/conglinh/.android/build-cache/b719dff077ae70e294fc7c448af43cb35c398ccd/output/res/xml/preferences.xml"
     }
 ]

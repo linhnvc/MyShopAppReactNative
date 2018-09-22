@@ -1,7 +1,23 @@
 [
     {
+        "merged": "/Users/conglinh/Desktop/GitHub/MyShopAppReactNative/android/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/conglinh/.android/build-cache/d98037dd49f3cd025104040f0861fba35ba3d687/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/conglinh/Desktop/GitHub/MyShopAppReactNative/android/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/conglinh/.android/build-cache/d98037dd49f3cd025104040f0861fba35ba3d687/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
         "merged": "/Users/conglinh/Desktop/RN/MyShop/android/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
         "source": "/Users/conglinh/.android/build-cache/d98037dd49f3cd025104040f0861fba35ba3d687/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/conglinh/Desktop/GitHub/MyShopAppReactNative/android/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/Users/conglinh/.android/build-cache/36f7a94d77c485e85d4f93508bc13ffe027df20a/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Users/conglinh/Desktop/GitHub/MyShopAppReactNative/android/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/conglinh/.android/build-cache/d98037dd49f3cd025104040f0861fba35ba3d687/output/res/drawable-v21/abc_edit_text_material.xml"
     },
     {
         "merged": "/Users/conglinh/Desktop/RN/MyShop/android/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",

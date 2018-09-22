@@ -4,8 +4,80 @@
         "source": "/Users/conglinh/.android/build-cache/d98037dd49f3cd025104040f0861fba35ba3d687/output/res/anim/tooltip_enter.xml"
     },
     {
+        "merged": "/Users/conglinh/Desktop/GitHub/MyShopAppReactNative/android/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/Users/conglinh/.android/build-cache/d98037dd49f3cd025104040f0861fba35ba3d687/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/conglinh/Desktop/GitHub/MyShopAppReactNative/android/app/build/intermediates/res/merged/debug/anim/catalyst_fade_out.xml",
+        "source": "/Users/conglinh/.android/build-cache/b719dff077ae70e294fc7c448af43cb35c398ccd/output/res/anim/catalyst_fade_out.xml"
+    },
+    {
+        "merged": "/Users/conglinh/Desktop/RN/MyShop/android/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/Users/conglinh/.android/build-cache/d98037dd49f3cd025104040f0861fba35ba3d687/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/conglinh/Desktop/RN/MyShop/android/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/conglinh/.android/build-cache/d98037dd49f3cd025104040f0861fba35ba3d687/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/conglinh/Desktop/GitHub/MyShopAppReactNative/android/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/Users/conglinh/.android/build-cache/d98037dd49f3cd025104040f0861fba35ba3d687/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/conglinh/Desktop/GitHub/MyShopAppReactNative/android/app/build/intermediates/res/merged/debug/anim/catalyst_push_up_in.xml",
+        "source": "/Users/conglinh/.android/build-cache/b719dff077ae70e294fc7c448af43cb35c398ccd/output/res/anim/catalyst_push_up_in.xml"
+    },
+    {
+        "merged": "/Users/conglinh/Desktop/GitHub/MyShopAppReactNative/android/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/Users/conglinh/.android/build-cache/d98037dd49f3cd025104040f0861fba35ba3d687/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/conglinh/Desktop/GitHub/MyShopAppReactNative/android/app/build/intermediates/res/merged/debug/anim/tooltip_enter.xml",
+        "source": "/Users/conglinh/.android/build-cache/d98037dd49f3cd025104040f0861fba35ba3d687/output/res/anim/tooltip_enter.xml"
+    },
+    {
+        "merged": "/Users/conglinh/Desktop/RN/MyShop/android/app/build/intermediates/res/merged/debug/anim/catalyst_fade_out.xml",
+        "source": "/Users/conglinh/.android/build-cache/a44e901c0a40e629ff4c3b0400c150a914636212/output/res/anim/catalyst_fade_out.xml"
+    },
+    {
+        "merged": "/Users/conglinh/Desktop/GitHub/MyShopAppReactNative/android/app/build/intermediates/res/merged/debug/anim/tooltip_exit.xml",
+        "source": "/Users/conglinh/.android/build-cache/d98037dd49f3cd025104040f0861fba35ba3d687/output/res/anim/tooltip_exit.xml"
+    },
+    {
+        "merged": "/Users/conglinh/Desktop/GitHub/MyShopAppReactNative/android/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/conglinh/.android/build-cache/d98037dd49f3cd025104040f0861fba35ba3d687/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/conglinh/Desktop/GitHub/MyShopAppReactNative/android/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/conglinh/.android/build-cache/d98037dd49f3cd025104040f0861fba35ba3d687/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/conglinh/Desktop/RN/MyShop/android/app/build/intermediates/res/merged/debug/anim/catalyst_fade_in.xml",
+        "source": "/Users/conglinh/.android/build-cache/a44e901c0a40e629ff4c3b0400c150a914636212/output/res/anim/catalyst_fade_in.xml"
+    },
+    {
+        "merged": "/Users/conglinh/Desktop/RN/MyShop/android/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/conglinh/.android/build-cache/d98037dd49f3cd025104040f0861fba35ba3d687/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/conglinh/Desktop/RN/MyShop/android/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/conglinh/.android/build-cache/d98037dd49f3cd025104040f0861fba35ba3d687/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/conglinh/Desktop/GitHub/MyShopAppReactNative/android/app/build/intermediates/res/merged/debug/anim/catalyst_slide_down.xml",
+        "source": "/Users/conglinh/.android/build-cache/b719dff077ae70e294fc7c448af43cb35c398ccd/output/res/anim/catalyst_slide_down.xml"
+    },
+    {
         "merged": "/Users/conglinh/Desktop/RN/MyShop/android/app/build/intermediates/res/merged/debug/anim/catalyst_slide_up.xml",
         "source": "/Users/conglinh/.android/build-cache/a44e901c0a40e629ff4c3b0400c150a914636212/output/res/anim/catalyst_slide_up.xml"
+    },
+    {
+        "merged": "/Users/conglinh/Desktop/GitHub/MyShopAppReactNative/android/app/build/intermediates/res/merged/debug/anim/catalyst_fade_in.xml",
+        "source": "/Users/conglinh/.android/build-cache/b719dff077ae70e294fc7c448af43cb35c398ccd/output/res/anim/catalyst_fade_in.xml"
+    },
+    {
+        "merged": "/Users/conglinh/Desktop/GitHub/MyShopAppReactNative/android/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/Users/conglinh/.android/build-cache/d98037dd49f3cd025104040f0861fba35ba3d687/output/res/anim/abc_fade_out.xml"
     },
     {
         "merged": "/Users/conglinh/Desktop/RN/MyShop/android/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
@@ -20,6 +92,14 @@
         "source": "/Users/conglinh/.android/build-cache/d98037dd49f3cd025104040f0861fba35ba3d687/output/res/anim/abc_slide_in_top.xml"
     },
     {
+        "merged": "/Users/conglinh/Desktop/GitHub/MyShopAppReactNative/android/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/conglinh/.android/build-cache/d98037dd49f3cd025104040f0861fba35ba3d687/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/conglinh/Desktop/GitHub/MyShopAppReactNative/android/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/conglinh/.android/build-cache/d98037dd49f3cd025104040f0861fba35ba3d687/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
         "merged": "/Users/conglinh/Desktop/RN/MyShop/android/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
         "source": "/Users/conglinh/.android/build-cache/d98037dd49f3cd025104040f0861fba35ba3d687/output/res/anim/abc_popup_enter.xml"
     },
@@ -28,8 +108,8 @@
         "source": "/Users/conglinh/.android/build-cache/a44e901c0a40e629ff4c3b0400c150a914636212/output/res/anim/catalyst_push_up_in.xml"
     },
     {
-        "merged": "/Users/conglinh/Desktop/RN/MyShop/android/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
-        "source": "/Users/conglinh/.android/build-cache/d98037dd49f3cd025104040f0861fba35ba3d687/output/res/anim/abc_popup_exit.xml"
+        "merged": "/Users/conglinh/Desktop/GitHub/MyShopAppReactNative/android/app/build/intermediates/res/merged/debug/anim/catalyst_push_up_out.xml",
+        "source": "/Users/conglinh/.android/build-cache/b719dff077ae70e294fc7c448af43cb35c398ccd/output/res/anim/catalyst_push_up_out.xml"
     },
     {
         "merged": "/Users/conglinh/Desktop/RN/MyShop/android/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
@@ -40,35 +120,27 @@
         "source": "/Users/conglinh/.android/build-cache/d98037dd49f3cd025104040f0861fba35ba3d687/output/res/anim/tooltip_exit.xml"
     },
     {
-        "merged": "/Users/conglinh/Desktop/RN/MyShop/android/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
-        "source": "/Users/conglinh/.android/build-cache/d98037dd49f3cd025104040f0861fba35ba3d687/output/res/anim/abc_slide_in_bottom.xml"
+        "merged": "/Users/conglinh/Desktop/GitHub/MyShopAppReactNative/android/app/build/intermediates/res/merged/debug/anim/catalyst_slide_up.xml",
+        "source": "/Users/conglinh/.android/build-cache/b719dff077ae70e294fc7c448af43cb35c398ccd/output/res/anim/catalyst_slide_up.xml"
     },
     {
         "merged": "/Users/conglinh/Desktop/RN/MyShop/android/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
         "source": "/Users/conglinh/.android/build-cache/d98037dd49f3cd025104040f0861fba35ba3d687/output/res/anim/abc_fade_in.xml"
     },
     {
-        "merged": "/Users/conglinh/Desktop/RN/MyShop/android/app/build/intermediates/res/merged/debug/anim/catalyst_fade_out.xml",
-        "source": "/Users/conglinh/.android/build-cache/a44e901c0a40e629ff4c3b0400c150a914636212/output/res/anim/catalyst_fade_out.xml"
+        "merged": "/Users/conglinh/Desktop/GitHub/MyShopAppReactNative/android/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/conglinh/.android/build-cache/d98037dd49f3cd025104040f0861fba35ba3d687/output/res/anim/abc_slide_out_bottom.xml"
     },
     {
         "merged": "/Users/conglinh/Desktop/RN/MyShop/android/app/build/intermediates/res/merged/debug/anim/catalyst_slide_down.xml",
         "source": "/Users/conglinh/.android/build-cache/a44e901c0a40e629ff4c3b0400c150a914636212/output/res/anim/catalyst_slide_down.xml"
     },
     {
-        "merged": "/Users/conglinh/Desktop/RN/MyShop/android/app/build/intermediates/res/merged/debug/anim/catalyst_fade_in.xml",
-        "source": "/Users/conglinh/.android/build-cache/a44e901c0a40e629ff4c3b0400c150a914636212/output/res/anim/catalyst_fade_in.xml"
-    },
-    {
         "merged": "/Users/conglinh/Desktop/RN/MyShop/android/app/build/intermediates/res/merged/debug/anim/catalyst_push_up_out.xml",
         "source": "/Users/conglinh/.android/build-cache/a44e901c0a40e629ff4c3b0400c150a914636212/output/res/anim/catalyst_push_up_out.xml"
     },
     {
-        "merged": "/Users/conglinh/Desktop/RN/MyShop/android/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "merged": "/Users/conglinh/Desktop/GitHub/MyShopAppReactNative/android/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
         "source": "/Users/conglinh/.android/build-cache/d98037dd49f3cd025104040f0861fba35ba3d687/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
-    },
-    {
-        "merged": "/Users/conglinh/Desktop/RN/MyShop/android/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
-        "source": "/Users/conglinh/.android/build-cache/d98037dd49f3cd025104040f0861fba35ba3d687/output/res/anim/abc_slide_out_top.xml"
     }
 ]

@@ -1,10 +1,18 @@
 [
     {
+        "merged": "/Users/conglinh/Desktop/GitHub/MyShopAppReactNative/android/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/conglinh/.android/build-cache/d98037dd49f3cd025104040f0861fba35ba3d687/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
         "merged": "/Users/conglinh/Desktop/RN/MyShop/android/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
         "source": "/Users/conglinh/.android/build-cache/d98037dd49f3cd025104040f0861fba35ba3d687/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
     },
     {
         "merged": "/Users/conglinh/Desktop/RN/MyShop/android/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
         "source": "/Users/conglinh/.android/build-cache/d98037dd49f3cd025104040f0861fba35ba3d687/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/Users/conglinh/Desktop/GitHub/MyShopAppReactNative/android/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/conglinh/.android/build-cache/d98037dd49f3cd025104040f0861fba35ba3d687/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
     }
 ]
