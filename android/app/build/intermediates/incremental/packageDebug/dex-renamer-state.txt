@@ -1,0 +1,4 @@
+#Sat Sep 08 15:49:50 ICT 2018
+base.0=/Users/conglinh/Desktop/RN/MyShop/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/Users/conglinh/Desktop/RN/MyShop/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex

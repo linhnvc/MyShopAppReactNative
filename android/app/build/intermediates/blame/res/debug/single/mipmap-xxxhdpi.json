@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/conglinh/Desktop/RN/MyShop/android/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_launcher_round.png",
+        "source": "/Users/conglinh/Desktop/RN/MyShop/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/conglinh/Desktop/RN/MyShop/android/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_launcher.png",
+        "source": "/Users/conglinh/Desktop/RN/MyShop/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    }
+]

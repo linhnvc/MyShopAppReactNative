@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/conglinh/.android/build-cache/a44e901c0a40e629ff4c3b0400c150a914636212/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="e7a850c25a7efbd533c496ab482c980fdafac58d">
+        <dex dex="/Users/conglinh/Desktop/RN/MyShop/android/app/build/intermediates/pre-dexed/debug/classes_38948d98cb74d6c51ed1b35a5d4c71d2b7ffe8eb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/conglinh/.android/build-cache/a44e901c0a40e629ff4c3b0400c150a914636212/output/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/conglinh/Desktop/RN/MyShop/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_49ec6e106e5b1365c9ab36461943374d0c1afc9c.jar" />
+    </item>
+
+</items>

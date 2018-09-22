@@ -1,0 +1,128 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/conglinh/Desktop/RN/MyShop/android/app/src/main/AndroidManifest.xml:1:1-26:12
+	package
+		ADDED from /Users/conglinh/Desktop/RN/MyShop/android/app/src/main/AndroidManifest.xml:2:5-25
+		INJECTED from /Users/conglinh/Desktop/RN/MyShop/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/conglinh/Desktop/RN/MyShop/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/conglinh/Desktop/RN/MyShop/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/conglinh/Desktop/RN/MyShop/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/conglinh/Desktop/RN/MyShop/android/app/src/main/AndroidManifest.xml:1:11-69
+	android:versionCode
+		INJECTED from /Users/conglinh/Desktop/RN/MyShop/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/conglinh/Desktop/RN/MyShop/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Users/conglinh/Desktop/RN/MyShop/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /Users/conglinh/Desktop/RN/MyShop/android/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/conglinh/Desktop/RN/MyShop/android/app/src/main/AndroidManifest.xml:5:5-77
+MERGED from [com.facebook.react:react-native:0.56.0] /Users/conglinh/.android/build-cache/a44e901c0a40e629ff4c3b0400c150a914636212/output/AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from /Users/conglinh/Desktop/RN/MyShop/android/app/src/main/AndroidManifest.xml:5:22-75
+application
+ADDED from /Users/conglinh/Desktop/RN/MyShop/android/app/src/main/AndroidManifest.xml:7:5-24:19
+MERGED from [com.facebook.react:react-native:0.56.0] /Users/conglinh/.android/build-cache/a44e901c0a40e629ff4c3b0400c150a914636212/output/AndroidManifest.xml:13:5-20
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/conglinh/.android/build-cache/d98037dd49f3cd025104040f0861fba35ba3d687/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/conglinh/.android/build-cache/439137fb48d488d1b90ea8bc69ff1d178c142cd3/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/conglinh/.android/build-cache/530dd9cbffb6cb14b5defeac2bdf8ef2d37501c4/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/conglinh/.android/build-cache/df12be7f147a6461fd76af4aa15d52fd0efe760a/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/conglinh/.android/build-cache/6dd84e8d6a128907e9cd6b7ede6087960a3b1e3a/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/conglinh/.android/build-cache/aee3e1bbe33fffe3bd6233675490617bdca0eb39/output/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/conglinh/.android/build-cache/b233c60a05fb2180e5faf1d86ba86badd20d959b/output/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/conglinh/.android/build-cache/4d4b5f9fe053f9e46e51360067e08773a6c196f5/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/conglinh/.android/build-cache/36f7a94d77c485e85d4f93508bc13ffe027df20a/output/AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/conglinh/.android/build-cache/00a2dc7ce622a97020d047624acaa58a93fe4699/output/AndroidManifest.xml:24:5-28:19
+MERGED from [com.facebook.soloader:soloader:0.3.0] /Users/conglinh/.android/build-cache/b8f6463ecaa4bede27cf4aebc7f9659d9dcc5670/output/AndroidManifest.xml:11:5-20
+MERGED from [org.webkit:android-jsc:r174650] /Users/conglinh/.android/build-cache/539e9160b7d45797d630c38f9b807433b95ee1ca/output/AndroidManifest.xml:2:3-17
+	android:label
+		ADDED from /Users/conglinh/Desktop/RN/MyShop/android/app/src/main/AndroidManifest.xml:9:7-39
+	android:allowBackup
+		ADDED from /Users/conglinh/Desktop/RN/MyShop/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:icon
+		ADDED from /Users/conglinh/Desktop/RN/MyShop/android/app/src/main/AndroidManifest.xml:10:7-41
+	android:theme
+		ADDED from /Users/conglinh/Desktop/RN/MyShop/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:name
+		ADDED from /Users/conglinh/Desktop/RN/MyShop/android/app/src/main/AndroidManifest.xml:8:7-38
+activity#com.myshop.MainActivity
+ADDED from /Users/conglinh/Desktop/RN/MyShop/android/app/src/main/AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from /Users/conglinh/Desktop/RN/MyShop/android/app/src/main/AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from /Users/conglinh/Desktop/RN/MyShop/android/app/src/main/AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from /Users/conglinh/Desktop/RN/MyShop/android/app/src/main/AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from /Users/conglinh/Desktop/RN/MyShop/android/app/src/main/AndroidManifest.xml:14:9-37
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/conglinh/Desktop/RN/MyShop/android/app/src/main/AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from /Users/conglinh/Desktop/RN/MyShop/android/app/src/main/AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from /Users/conglinh/Desktop/RN/MyShop/android/app/src/main/AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/conglinh/Desktop/RN/MyShop/android/app/src/main/AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from /Users/conglinh/Desktop/RN/MyShop/android/app/src/main/AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/conglinh/Desktop/RN/MyShop/android/app/src/main/AndroidManifest.xml:23:7-84
+	android:name
+		ADDED from /Users/conglinh/Desktop/RN/MyShop/android/app/src/main/AndroidManifest.xml:23:17-81
+uses-sdk
+INJECTED from /Users/conglinh/Desktop/RN/MyShop/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.facebook.react:react-native:0.56.0] /Users/conglinh/.android/build-cache/a44e901c0a40e629ff4c3b0400c150a914636212/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/conglinh/.android/build-cache/d98037dd49f3cd025104040f0861fba35ba3d687/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:26.1.0] /Users/conglinh/.android/build-cache/439137fb48d488d1b90ea8bc69ff1d178c142cd3/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/conglinh/.android/build-cache/530dd9cbffb6cb14b5defeac2bdf8ef2d37501c4/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/conglinh/.android/build-cache/df12be7f147a6461fd76af4aa15d52fd0efe760a/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/conglinh/.android/build-cache/6dd84e8d6a128907e9cd6b7ede6087960a3b1e3a/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/conglinh/.android/build-cache/aee3e1bbe33fffe3bd6233675490617bdca0eb39/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/conglinh/.android/build-cache/b233c60a05fb2180e5faf1d86ba86badd20d959b/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/conglinh/.android/build-cache/4d4b5f9fe053f9e46e51360067e08773a6c196f5/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /Users/conglinh/.android/build-cache/36f7a94d77c485e85d4f93508bc13ffe027df20a/output/AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/conglinh/.android/build-cache/00a2dc7ce622a97020d047624acaa58a93fe4699/output/AndroidManifest.xml:20:5-22:41
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /Users/conglinh/.android/build-cache/9d9e4dcb4f6c6b3737c2bf849f861ad884df6371/output/AndroidManifest.xml:14:5-16:41
+MERGED from [com.facebook.fresco:fresco:1.9.0] /Users/conglinh/.android/build-cache/e4bc6be30f376679f1d413a1d1f84ce2eb812840/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.9.0] /Users/conglinh/.android/build-cache/9b84194696997bd8571d84a3ac8f18e8a017d99f/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.9.0] /Users/conglinh/.android/build-cache/80106819dcaa7e1654fce72813b241ddfdc1cea2/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.9.0] /Users/conglinh/.android/build-cache/07cbb816c40f005c64d11c0c0795ebf38020ebe0/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.9.0] /Users/conglinh/.android/build-cache/f1d59a0a82552dbb8c82ed62af254918b18e9954/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.9.0] /Users/conglinh/.android/build-cache/bdf5b663d93044f4be2b517791425ce7aed9ccd4/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.3.0] /Users/conglinh/.android/build-cache/b8f6463ecaa4bede27cf4aebc7f9659d9dcc5670/output/AndroidManifest.xml:7:5-9:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/conglinh/.android/build-cache/d98037dd49f3cd025104040f0861fba35ba3d687/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Users/conglinh/Desktop/RN/MyShop/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/conglinh/Desktop/RN/MyShop/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/conglinh/Desktop/RN/MyShop/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/conglinh/Desktop/RN/MyShop/android/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/conglinh/.android/build-cache/d98037dd49f3cd025104040f0861fba35ba3d687/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] /Users/conglinh/.android/build-cache/439137fb48d488d1b90ea8bc69ff1d178c142cd3/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/conglinh/.android/build-cache/530dd9cbffb6cb14b5defeac2bdf8ef2d37501c4/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/conglinh/.android/build-cache/df12be7f147a6461fd76af4aa15d52fd0efe760a/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/conglinh/.android/build-cache/6dd84e8d6a128907e9cd6b7ede6087960a3b1e3a/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/conglinh/.android/build-cache/aee3e1bbe33fffe3bd6233675490617bdca0eb39/output/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/conglinh/.android/build-cache/b233c60a05fb2180e5faf1d86ba86badd20d959b/output/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/conglinh/.android/build-cache/4d4b5f9fe053f9e46e51360067e08773a6c196f5/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/conglinh/.android/build-cache/36f7a94d77c485e85d4f93508bc13ffe027df20a/output/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/conglinh/.android/build-cache/d98037dd49f3cd025104040f0861fba35ba3d687/output/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/conglinh/.android/build-cache/d98037dd49f3cd025104040f0861fba35ba3d687/output/AndroidManifest.xml:27:13-51
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/conglinh/.android/build-cache/00a2dc7ce622a97020d047624acaa58a93fe4699/output/AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/conglinh/.android/build-cache/00a2dc7ce622a97020d047624acaa58a93fe4699/output/AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/conglinh/.android/build-cache/00a2dc7ce622a97020d047624acaa58a93fe4699/output/AndroidManifest.xml:26:13-58
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from /Users/conglinh/Desktop/RN/MyShop/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from /Users/conglinh/Desktop/RN/MyShop/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /Users/conglinh/Desktop/RN/MyShop/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE
